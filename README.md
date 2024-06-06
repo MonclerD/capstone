@@ -16,7 +16,7 @@ This repository contains the source code for a web application built with Flask.
     ```
 2. **Navigate to the project directory:**
     ```sh
-    cd LikeThat/Bitirme4
+    cd capstone/Bitirme4
     ```
 3. **Install the required dependencies:**
     ```sh
