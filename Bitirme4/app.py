@@ -87,7 +87,7 @@ def generate_images(paragraphs, title):
         
         # Generate one image for every two paragraphs, up to a maximum of 5 images
         for i in range(0, len(paragraphs), 2):
-            if len(images) >= 5:
+            if len(images) >= 4:
                 break
             prompt_text = ' '.join(paragraphs[i:i+2])
             response = openai.Image.create(
