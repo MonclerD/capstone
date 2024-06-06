@@ -12,7 +12,7 @@ This repository contains the source code for a web application built with Flask.
 ## Installation
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/MonclerD/Bitirme4/tree/main/Bitirme4
+    git clone https://github.com/MonclerD/capstone/tree/main/Bitirme4
     ```
 2. **Navigate to the project directory:**
     ```sh
