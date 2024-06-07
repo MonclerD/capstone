@@ -57,5 +57,11 @@ This repository contains the source code for a web application built with Flask.
 - `/read_book/<int:book_id>` - Read a specific book
 - `/logout` - Logout
 
+## Contributors
+
+- [Melisa IŞITIR](https://github.com/melisaisitir)
+- [Emin Mert DEMİRCİ](https://github.com/MonclerD)
+
+
 ## License
 This project is licensed under the MIT License.
